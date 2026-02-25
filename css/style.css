@@ -1,0 +1,27 @@
+body {
+    background-color: lightblue;
+}
+
+h1, h2 {
+    color:red;
+    font-style: italic;
+}
+
+#sm {
+    color: purple;
+}
+
+#jn {
+    color: rgb(212, 149, 31);
+}
+
+#gh {
+    color: whitesmoke;
+}
+
+#fotito {
+    width: 400px;
+    height: 300px;
+    display: block;
+    margin: auto;
+}
