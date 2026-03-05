@@ -8,7 +8,7 @@ boton.addEventListener("click", function() {
   }, 3000);
 });
 
-const botonArriba = document.getElementById("btn-arriba");
+const botonArriba = document.getElementById("btnArriba");
 
 botonArriba.addEventListener("click", function() {
   window.scrollTo({
